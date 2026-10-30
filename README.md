@@ -1,18 +1,46 @@
-# 💫 About Me:
-I'm currently working on<br>Building scalable web applications & REST APIs using React and Node.js<br>👯<br>I'm looking to collaborate on<br>Open-source projects in web development, developer tools, and automation<br>🤝<br>I'm looking for help with<br>System design, distributed systems & DevOps best practices<br>🌱<br>I'm currently learning<br>Cloud architecture (AWS/GCP), TypeScript, and machine learning fundamentals<br>💬<br>Ask me about<br>JavaScript, React, Python, APIs, debugging & software engineering career tips<br>⚡<br>Fun fact<br>I debug code better with coffee ☕ — and I once fixed a production bug at 2am in my sleep!
+<h1 align="center">Hi, I'm Azhar Ali 👋</h1>
+<h3 align="center">Computer Science student · Data Structures & Algorithms · Building in public, two commits a day</h3>
 
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/@azharlol) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@azeusy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/azhru) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@azharrlol)
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Arango DB](https://img.shields.io/badge/ArangoDB-DDE072?style=for-the-badge&logo=arangodb&logoColor=white) ![Quill](https://img.shields.io/badge/Quill-52B0E7?style=for-the-badge&logo=apache&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=azhruu&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=azhruu&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=azhruu&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://github.com/azhruu/AlgoViz"><img src="https://img.shields.io/badge/Featured%20Project-AlgoViz-6c8cff?style=for-the-badge&logo=github" alt="AlgoViz"></a>
+  <img src="https://komarev.com/ghpvc/?username=azhruu&style=for-the-badge&color=38e0c8" alt="Profile views">
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=azhruu&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🚀 Featured project — [AlgoViz](https://github.com/azhruu/AlgoViz)
+
+**Data Structures & Algorithms, visualized.** Sorting, searching, trees, graphs and pathfinding — animated step by step with live comparison counts, complexity notes and synced pseudocode. Zero dependencies, pure HTML/CSS/JS.
+
+It grows on a fixed schedule: **a new algorithm or feature lands every day at 12:00 AM and 12:00 PM (PKT)**. The commit history is the progress log — watch it being built.
+
+### 🧠 What I'm working on
+
+- 📊 **AlgoViz** — turning the full DSA syllabus into interactive visualizations
+- ☕ **Java** — data structures from scratch (linked lists, trees, heaps, hashing, graphs)
+- 🌱 Currently deepening: **AVL trees, graph traversals, pathfinding (Dijkstra / A\*)**
+
+### 🛠️ Tech & tools
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</p>
+
+### 📈 GitHub stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=azhruu&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azhruu&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages">
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=azhruu&theme=tokyonight&hide_border=true" alt="Contribution streak">
+</p>
+
+---
+
+<p align="center"><i>Consistency beats intensity — two commits a day, every day.</i></p>
