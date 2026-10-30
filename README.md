@@ -1,37 +1,59 @@
-<h1 align="center">Hi, I'm Azhar Ali 👋</h1>
-<h3 align="center">Computer Science student · Data Structures & Algorithms · Building in public, two commits a day</h3>
+<h1 align="center">Azhar Ali</h1>
 
 <p align="center">
-  <a href="https://github.com/azhruu/AlgoViz"><img src="https://img.shields.io/badge/Featured%20Project-AlgoViz-6c8cff?style=for-the-badge&logo=github" alt="AlgoViz"></a>
-  <img src="https://komarev.com/ghpvc/?username=azhruu&style=for-the-badge&color=38e0c8" alt="Profile views">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1100&color=58A6FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Data+Structures+%26+Algorithms;Java+%C2%B7+JavaScript+%C2%B7+Python;Building+AlgoViz+%E2%80%94+DSA%2C+Visualized" alt="Typing intro">
+</p>
+
+<p align="center">
+  I turn core computer-science concepts into clean, working software — data structures implemented from scratch, algorithms you can <i>watch</i> run, and small tools that solve everyday problems.
 </p>
 
 ---
 
-### 🚀 Featured project — [AlgoViz](https://github.com/azhruu/AlgoViz)
+### 👨‍💻 About me
 
-**Data Structures & Algorithms, visualized.** Sorting, searching, trees, graphs and pathfinding — animated step by step with live comparison counts, complexity notes and synced pseudocode. Zero dependencies, pure HTML/CSS/JS.
+- 🎓 Computer Science student, focused on **Data Structures & Algorithms**
+- 🔭 Currently building **[AlgoViz](https://github.com/azhruu/AlgoViz)** — an interactive DSA visualizer (sorting, searching, trees, graphs, pathfinding)
+- ☕ Implementing the full DSA syllabus from scratch in **[dsa-java](https://github.com/azhruu/dsa-java)**
+- 🌱 Deepening: AVL trees · graph traversals · shortest-path algorithms
+- 💡 I learn by building in the open — every repo below is a complete, runnable project
 
-It grows on a fixed schedule: **a new algorithm or feature lands every day at 12:00 AM and 12:00 PM (PKT)**. The commit history is the progress log — watch it being built.
+### 🛠️ Tech stack
 
-### 🧠 What I'm working on
-
-- 📊 **AlgoViz** — turning the full DSA syllabus into interactive visualizations
-- ☕ **Java** — data structures from scratch (linked lists, trees, heaps, hashing, graphs)
-- 🌱 Currently deepening: **AVL trees, graph traversals, pathfinding (Dijkstra / A\*)**
-
-### 🛠️ Tech & tools
-
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,py,git,github,vscode&theme=dark" alt="Tech stack">
 </p>
 
-### 📈 GitHub stats
+### 📌 Featured projects
+
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/azhruu/AlgoViz">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=azhruu&repo=AlgoViz&theme=tokyonight&hide_border=true" alt="AlgoViz">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/azhruu/dsa-java">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=azhruu&repo=dsa-java&theme=tokyonight&hide_border=true" alt="dsa-java">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/azhruu/expense-tracker">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=azhruu&repo=expense-tracker&theme=tokyonight&hide_border=true" alt="expense-tracker">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/azhruu/py-toolkit">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=azhruu&repo=py-toolkit&theme=tokyonight&hide_border=true" alt="py-toolkit">
+      </a>
+    </td>
+  </tr>
+</table>
+
+### 📈 GitHub analytics
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=azhruu&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats">
@@ -40,7 +62,13 @@ It grows on a fixed schedule: **a new algorithm or feature lands every day at 12
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=azhruu&theme=tokyonight&hide_border=true" alt="Contribution streak">
 </p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=azhruu&theme=tokyo-night&hide_border=true" alt="Activity graph">
+</p>
 
 ---
 
-<p align="center"><i>Consistency beats intensity — two commits a day, every day.</i></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=azhruu&style=flat&color=38e0c8&label=Profile+views" alt="Profile views">
+</p>
+<p align="center"><i>Thanks for stopping by — a ⭐ on a project you like means a lot.</i></p>
