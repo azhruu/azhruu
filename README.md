@@ -1,4 +1,6 @@
-<h1 align="center">Azhar Ali</h1>
+<p align="center">
+  <img src="banner.png" alt="Azhar Ali — Software Engineer" width="100%">
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1100&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Data+Structures+%26+Algorithms;Java+%C2%B7+JavaScript+%C2%B7+Python;Building+AlgoViz+%E2%80%94+DSA%2C+Visualized" alt="Typing intro">
