@@ -74,6 +74,46 @@
       </p>
     </td>
   </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/azhruu/taskflow">🗂️ taskflow</a></h3>
+      <p>A lightweight Kanban board in the browser — add tasks and drag them from To Do to Done, with automatic local saving.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+        <img src="https://img.shields.io/github/stars/azhruu/taskflow?style=flat-square" alt="Stars">
+        <img src="https://img.shields.io/github/last-commit/azhruu/taskflow?style=flat-square" alt="Last commit">
+      </p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/azhruu/notevault">🗒️ notevault</a></h3>
+      <p>Markdown notes with a live rendered preview and instant full-text search. Everything stays in the browser.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+        <img src="https://img.shields.io/github/stars/azhruu/notevault?style=flat-square" alt="Stars">
+        <img src="https://img.shields.io/github/last-commit/azhruu/notevault?style=flat-square" alt="Last commit">
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/azhruu/shortly">🔗 shortly</a></h3>
+      <p>A tiny URL shortener API in pure Node.js — zero dependencies. Shorten links, redirect with click tracking, JSON persistence.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+        <img src="https://img.shields.io/github/stars/azhruu/shortly?style=flat-square" alt="Stars">
+        <img src="https://img.shields.io/github/last-commit/azhruu/shortly?style=flat-square" alt="Last commit">
+      </p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/azhruu/dsa-cpp">⚙️ dsa-cpp</a></h3>
+      <p>Classic data structures from scratch in modern C++17 — header-only templates with RAII memory management and runnable demos.</p>
+      <p>
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
+        <img src="https://img.shields.io/github/stars/azhruu/dsa-cpp?style=flat-square" alt="Stars">
+        <img src="https://img.shields.io/github/last-commit/azhruu/dsa-cpp?style=flat-square" alt="Last commit">
+      </p>
+    </td>
+  </tr>
 </table>
 
 ### 📈 GitHub activity
