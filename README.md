@@ -119,7 +119,7 @@
 ### 📈 GitHub activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=azhruu&theme=tokyonight&hide_border=true" alt="Contribution streak">
+  <img src="contribution-streak.svg" alt="Contribution streak">
 </p>
 
 ---
