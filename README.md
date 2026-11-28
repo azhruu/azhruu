@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1100&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Data+Structures+%26+Algorithms;Java+%C2%B7+JavaScript+%C2%B7+Python;Building+AlgoViz+%E2%80%94+DSA%2C+Visualized" alt="Typing intro">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1100&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Data+Structures+%26+Algorithms;Java+%C2%B7+JavaScript+%C2%B7+Python+%C2%B7+C%2B%2B;Building+AlgoViz+%E2%80%94+DSA%2C+Visualized" alt="Typing intro">
 </p>
 
 <p align="center">
@@ -20,15 +20,15 @@
 ### 👨‍💻 About me
 
 - 💼 **Software Engineer** — focused on **Data Structures, Algorithms** and clean, efficient code
-- 🔭 Currently building **[AlgoViz](https://github.com/azhruu/AlgoViz)** — an interactive DSA visualizer (sorting, searching, trees, graphs, pathfinding)
-- ☕ Implementing core data structures from scratch in **[dsa-java](https://github.com/azhruu/dsa-java)**
-- 🌱 Deepening: AVL trees · graph algorithms · shortest paths · system design fundamentals
+- 🔭 Currently building **[AlgoViz](https://github.com/azhruu/AlgoViz)** — an interactive DSA visualizer (sorting, searching, trees, graphs, pathfinding and recursion, animated step by step)
+- ☕ Implementing core data structures from scratch in **[dsa-java](https://github.com/azhruu/dsa-java)** — and the same structures in modern C++17 in **[dsa-cpp](https://github.com/azhruu/dsa-cpp)**
+- 🌱 Deepening: system design fundamentals · recursion & backtracking · clean, testable code
 - 💡 Every project below is complete, tested and runnable — no placeholders
 
 ### 🛠️ Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,py,git,github,vscode&theme=dark" alt="Tech stack">
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,py,cpp,nodejs,git,github,vscode&theme=dark" alt="Tech stack">
 </p>
 
 ### 📌 Featured projects
